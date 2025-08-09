@@ -26,4 +26,4 @@ ICML 2025（学生一作）、NIPS在投（第一作者）
 
 
 ##  联系我
-[Email](mailto:xiantaoma@bit.edu.cn) / [Wechat](../image/wechat.jpg) 
+[Email](mailto:xiantaoma@bit.edu.cn) / [Wechat](wechat.jpg) 
