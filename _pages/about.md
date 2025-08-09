@@ -19,3 +19,11 @@ ICML 2025（学生一作）、NIPS在投（第一作者）
 
 - 2023年9月 - 2026年6月：北京理工大学 硕士
 - 2019年9月 - 2023年6月：北京理工大学 学士
+
+
+##  查看简历
+更多详细个人信息，请查看我的简历： [mxtCV](../assets/CV.pdf)
+
+
+##  联系我
+[Email](mailto:xiantaoma@bit.edu.cn) / [Wechat](../image/wechat.jpg) 
