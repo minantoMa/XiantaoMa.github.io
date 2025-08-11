@@ -22,8 +22,8 @@ ICML 2025（学生一作）、NIPS在投（第一作者）
 
 
 ##  查看简历
-更多详细个人信息，请查看我的简历： [CV](maxiantao.com/assets/CV.pdf)
+更多详细个人信息，请查看我的简历： [CV](/assets/CV.pdf)
 
 
 ##  联系我
-[Email](mailto:xiantaoma@bit.edu.cn) / [Wechat](maxiantao.com/_pages/wechat.jpg) 
+[Email](mailto:xiantaoma@bit.edu.cn) / [Wechat](/_pages/wechat.jpg) 
